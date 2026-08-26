@@ -59,14 +59,16 @@ DevOps & Cloud Engineer with experience in AWS configuration through Terraform a
 
 ### Featured DevOps Projects
 
-- **[Microservices Deployment on AWS EKS](https://github.com/mo-jasim)**  
-  Provisioned multi-tier cloud infrastructure using Terraform, automated GitOps releases with Argo CD, and configured Nginx Ingress controllers with automated TLS certificates.
+- **[Profertility (Cloud-Native Enterprise Platform)](https://github.com/mo-jasim/Health-Care-Plateform)**  
+  - Architected a highly available AWS EKS cluster with multi-AZ VPC subnets via Terraform, managing auto-scaling groups to optimize compute costs.
+  - Decoupled edge traffic routing via the Kubernetes Gateway API and Cloudflare DNS to secure HTTPS termination.
+  - Implemented declarative GitOps workflows to enforce zero-downtime deployments and eliminate infrastructure drift across namespaces.
 
-- **[Pizza-Store-Deployment](https://github.com/mo-jasim/Pizza-Store-Deployment)**  
-  Configured continuous delivery pipelines via GitHub Actions, containerized microservice architectures with Docker, and provisioned runtime environments using Terraform.
-
-- **[CI/CD Automation & Cluster Observability](https://github.com/mo-jasim)**  
-  Engineered automated testing and deployment workflows using self-hosted GitHub Actions runners, integrated Prometheus metrics collection, and built Grafana monitoring dashboards.
+- **[Pizza-App (7-tier Microservices Architecture)](https://github.com/mo-jasim/Pizza-Store-Deployment)**  
+  - Provisioned secure AWS infrastructure via Terraform, designing custom VPCs with isolated public and private subnets.
+  - Enforced cloud security with NAT Gateways and AWS ALBs to restrict direct internet access to private microservices.
+  - Deployed the 7-tier architecture onto AWS EKS with strict resource limits, maintaining 100% node stability.
+  - Configured robust cloud observability with Prometheus and Grafana for proactive node and pod health monitoring.
 
 ---
 
