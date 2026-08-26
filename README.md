@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
+  <h1>Mohammad Jasim</h1>
+  <p><strong>DevOps & Cloud Engineer</strong></p>
+  <p>AWS • Kubernetes • Terraform • CI/CD • GitOps</p>
 
-<!--
-**mo-jasim/mo-jasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="https://www.mojasim.com"><img src="https://img.shields.io/badge/Portfolio-www.mojasim.com-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mohammad-jasim23/"><img src="https://img.shields.io/badge/LinkedIn-mohammad--jasim23-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/mo-jasim"><img src="https://img.shields.io/badge/GitHub-mo--jasim-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+DevOps & Cloud Engineer with experience in AWS configuration through Terraform and Kubernetes (EKS). And configured CI/CD and GitOps processes via GitHub Actions and ArgoCD and reduced deployment times by 80% and in Docker container size up to 90% through multiple stages build processes, and built observable monitoring systems with Prometheus and Grafana.
+
+---
+
+### Core Technical Skills
+
+**Cloud & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+**Containers & Orchestration**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS EKS" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+</p>
+
+**CI/CD & GitOps**
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+</p>
+
+**Observability & Systems**
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### Featured DevOps Projects
+
+- **[Microservices Deployment on AWS EKS](https://github.com/mo-jasim)**  
+  Provisioned multi-tier cloud infrastructure using Terraform, automated GitOps releases with Argo CD, and configured Nginx Ingress controllers with automated TLS certificates.
+
+- **[Pizza-Store-Deployment](https://github.com/mo-jasim/Pizza-Store-Deployment)**  
+  Configured continuous delivery pipelines via GitHub Actions, containerized microservice architectures with Docker, and provisioned runtime environments using Terraform.
+
+- **[CI/CD Automation & Cluster Observability](https://github.com/mo-jasim)**  
+  Engineered automated testing and deployment workflows using self-hosted GitHub Actions runners, integrated Prometheus metrics collection, and built Grafana monitoring dashboards.
+
+---
+
+<div align="center">
+  <p>🌐 <strong>Portfolio:</strong> <a href="https://www.mojasim.com">www.mojasim.com</a> &nbsp;|&nbsp; 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohammad-jasim23/">mohammad-jasim23</a> &nbsp;|&nbsp; 🐙 <strong>GitHub:</strong> <a href="https://github.com/mo-jasim">mo-jasim</a></p>
+</div>
