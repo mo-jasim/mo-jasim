@@ -58,20 +58,8 @@ DevOps & Cloud Engineer with experience in AWS configuration through Terraform a
 ---
 
 ### Featured DevOps Projects
-
-- **[Profertility (Cloud-Native Enterprise Platform)](https://github.com/mo-jasim/Health-Care-Plateform)**  
-  - Architected a highly available AWS EKS cluster with multi-AZ VPC subnets via Terraform, managing auto-scaling groups to optimize compute costs.
-  - Decoupled edge traffic routing via the Kubernetes Gateway API and Cloudflare DNS to secure HTTPS termination.
-  - Implemented declarative GitOps workflows to enforce zero-downtime deployments and eliminate infrastructure drift across namespaces.
-
 - **[Pizza-App (7-tier Microservices Architecture)](https://github.com/mo-jasim/Pizza-Store-Deployment)**  
   - Provisioned secure AWS infrastructure via Terraform, designing custom VPCs with isolated public and private subnets.
   - Enforced cloud security with NAT Gateways and AWS ALBs to restrict direct internet access to private microservices.
   - Deployed the 7-tier architecture onto AWS EKS with strict resource limits, maintaining 100% node stability.
   - Configured robust cloud observability with Prometheus and Grafana for proactive node and pod health monitoring.
-
----
-
-<div align="center">
-  <p>🌐 <strong>Portfolio:</strong> <a href="https://www.mojasim.com">www.mojasim.com</a> &nbsp;|&nbsp; 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohammad-jasim23/">mohammad-jasim23</a> &nbsp;|&nbsp; 🐙 <strong>GitHub:</strong> <a href="https://github.com/mo-jasim">mo-jasim</a></p>
-</div>
